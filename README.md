@@ -1,3 +1,4 @@
+Boas vindas a API do Site
 # LojaVideoGame
 
 Uma pequena loja de videogames desenvolvida como projeto pessoal.  
